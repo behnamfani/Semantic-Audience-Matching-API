@@ -11,7 +11,9 @@ payload = {"input_segments": ["Market -> food -> vegan -> tufo"]}
 In the API.py, this payload is passed to the find_match method of the Semantic class to find the best match where it is encoded and compared with the embeddings of the source_list using cos-sim (more info: [reports](reports))
 
 ## Installation
-
+1. Clone the repository: ```git clone https://github.com/behnamfani/Semantic-Audience-Matching-API.git```
+2. Navigate to the directory of the cloned repo and build docker: ```docker build -t my-python-app .```
+3. 
 
 ## License
 This project licensed under the MIT license
