@@ -4,10 +4,12 @@ from pydantic import BaseModel
 
 from src.Semantic_Match import Semantic
 
+# Creating an object from the Semantic class
 S = Semantic()
+# Creating a FastAPI app
 app = FastAPI()
 
-
+# Structure of the payload
 class Item(BaseModel):
     input_segments: list[str]
 
