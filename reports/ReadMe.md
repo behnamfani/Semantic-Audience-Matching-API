@@ -13,5 +13,8 @@ As a preprocessing step aimed at saving time during inference, the embeddings of
 can be used for tasks such as semantic search, and is suitable for cos-similarity.
 
 ## Approach
-Main idea is comparing the encoded test segment with the averages of the embeddings of the children of each root. This is because the average embedding captures more semantic meaning of the subtree. Both the time efficiency 
+The main idea is to compare the encoded test segment with the averages of the embeddings of the children of each root. This is because the average embedding captures the more semantic meaning of the subtree. Both the time efficiency 
 and performance of this approach were promising, which ultimately led me to choose this method.
+
+## Future works
+One future work would be to use different models to get the embeddings as various models may perform differently. Furthermore, more analysis on the dataset and especially its tree structure can be done (e.g. narrow the search space again using "segment_description") to check the balance between runtime and performance.
