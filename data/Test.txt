@@ -1,0 +1,28 @@
+["Market -> food -> vegan -> tufo"]: 
+"message": "{'sim': 0.5914979, 'label_id_long': 50307010100, 'label_id': 503070101, 'parent_id': 5030701, 'segment_description': 'Frequency of consuming food and drinks', 'label_name': 'Purchases & Consumption | Food & Drink | General Food | Ethic | Arabic Food'}"
+
+["Academic Art Paiting"]: 
+"message": "{'sim': 0.699349, 'label_id_long': 20101000000, 'label_id': 20101, 'parent_id': 201, 'segment_description': 'interests related to academic subjects', 'label_name': 'Interest | Academic Interest | Arts and Humanities'}"
+
+["Academic Art Music", "Instrument -> electric guitar, rock"]:
+"message": "{'sim': 0.7177187, 'label_id_long': 21312000000, 'label_id': 21312, 'parent_id': 213, 'segment_description': 'hobbies someone is doing', 'label_name': 'Interest | Hobbies & Interests | Musical Instruments'}"
+
+["Racing -> Automotive -> Super car -> Ferrari"]: 
+"message": "{'sim': 0.75451183, 'label_id_long': 20201070000, 'label_id': 2020107, 'parent_id': 20201, 'segment_description': 'interest in automotive brands and types', 'label_name': 'Interest | Automotive | Brand | Ferrari'}"
+
+["Buy -> Super car -> Ferrari"]: 
+"message": "{'sim': 0.73005974, 'label_id_long': 40303070000, 'label_id': 4030307, 'parent_id': 40303, 'segment_description': 'purchase intent for a car', 'label_name': 'Purchase Intent | Automotive | Brand | Ferrari'}"
+
+["Interest/Cook/Fast Recipes"]:
+"message": "{'sim': 0.84997255, 'label_id_long': 21003010000, 'label_id': 2100301, 'parent_id': 21003, 'segment_description': 'interests related to food and drinks', 'label_name': 'Interest | Food & Drink | Cooking | 30min Recipes'}"
+
+["Travel -> Location -> Japan/Korea"]:
+"message": "{'sim': 0.6678778, 'label_id_long': 51007020000, 'label_id': 5090702, 'parent_id': 50907, 'segment_description': 'Last travel(s) information', 'label_name': 'Purchases & Consumption | Travel | Location | Asia Travel'}"
+
+["Buy Game -> Video -> PS4", "Game -> PES/FIFA"]:
+"message": "{'sim': 0.68457824, 'label_id_long': 40520000000, 'label_id': 40520, 'parent_id': 405, 'segment_description': 'purchase intent for consumer electronics', 'label_name': 'Purchase Intent | Consumer Electronics | Video Game Console Accessories'}"
+
+["Book/Magazine -> science articles"]:
+"message": "{'sim': 0.7842518, 'label_id_long': 20302230000, 'label_id': 2030223, 'parent_id': 20302, 'segment_description': 'interest in books/ magazines subjects', 'label_name': 'Interest | Books and Literature | Magazines | Science'}"
+
+
