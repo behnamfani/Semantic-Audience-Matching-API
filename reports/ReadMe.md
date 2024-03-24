@@ -17,4 +17,4 @@ The main idea is to compare the encoded test segment with the averages of the em
 and performance of this approach were promising, which ultimately led me to choose this method.
 
 ## Future works
-One future work would be to use different models to get the embeddings as various models may perform differently. Furthermore, more analysis on the dataset and especially its tree structure can be done (e.g. narrow the search space again using "segment_description") to check the balance between runtime and performance.
+One future work would be to use different models to get the embeddings as various models may perform differently. Furthermore, more analysis on the dataset and especially its tree structure can be done (e.g. narrow the search space again using "segment_description" or check the different levels of the tree separately) to check the balance between runtime and performance.
